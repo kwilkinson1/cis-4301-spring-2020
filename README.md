@@ -5,13 +5,6 @@ This is the shared repository for the group's database project.
 Work flow:
 
 
-
-
-
-
-
-
-
 1.  Use: git branch [branch_name]
 
    to create your own, unique branch from the origin master branch.  This will be used to develop
@@ -37,19 +30,19 @@ Work flow:
 
 5.  Next, use:
 
-   git pull https://github.com/sanguine-six-dev/create-3d-models
+   git pull https://github.com/cis-4301-spring-2020
 
    to check any potential conflicts with future merging by comparing currently developed code
    with the newest version of the repository.
 
 6.  After resolving all possible merge conflicts, use
 
-   git push https://github.com/sanguine-six-dev/create-3d-models [branch_name]
+   git push https://github.com/cis-4301-spring-2020 [branch_name]
 
    to stage a merge request.  You will need to follow the steps provided in the link
    github displays as a return to this request to finalize the merge request.
 
-7.  Your scrum master, Ken Wilkinson, will review all code for potential conflicts.  If there is
+7.  The code will then be reviewed for conflicts by a fellow teammate.  If there is
    still a conflict, Ken will resolve the issue among the developers whose code is in conflict.
 
 8.  After a new merge is approved, it will be available for review for all people.  Please be sure
